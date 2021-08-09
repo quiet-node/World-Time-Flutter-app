@@ -1,7 +1,7 @@
 # WorldTimeApis 
 A fun and exciting project that I have built in order to step into Mobile development.
 
-This is my first try to reach to Flutter Dart
+This is my first try to reach Flutter Dart
 
 Tech I have used in this project:
   > Flutter/Dart
