@@ -1,6 +1,16 @@
-# WorldTimeApis
+# WorldTimeApis 
+A fun and exciting project that I have built in order to step into Mobile development.
 
-This is my first try to reach to Flutter after watching the whole series 35 eps by theNetNinja.
+This is my first try to reach to Flutter Dart
+
+Tech I have used in this project:
+  > Flutter/Dart
+
+  > WorldTime Apis
+
+  > Dart Spinkit
+
+Credit: https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
 
 ![image](https://user-images.githubusercontent.com/66233296/114333839-e04e3000-9b0e-11eb-9c66-25520948404c.png)
 
