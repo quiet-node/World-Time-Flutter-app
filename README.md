@@ -3,12 +3,12 @@ A fun and exciting project that I have built in order to step into Mobile develo
 
 This is my first try to reach Flutter Dart
 
-Tech I have used in this project:
-  > Flutter/Dart
+Techonologies:
+  - Flutter/Dart
 
-  > WorldTime Apis
+  - WorldTime Apis
 
-  > Dart Spinkit
+  - Dart Spinkit
 
 Credit: https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ
 
