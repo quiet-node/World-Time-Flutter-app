@@ -1,7 +1,5 @@
 # WorldTimeApis 
-A fun and exciting project that I have built in order to step into Mobile development.
-
-This is my first try to reach Flutter Dart
+A cross-platform mobile application utilizing WorldTime APIs and Flutter technology, delivering a sleek and user-friendly experience for tracking time across various locations worldwide.
 
 Techonologies:
   - Flutter/Dart
